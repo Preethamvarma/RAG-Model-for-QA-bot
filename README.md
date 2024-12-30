@@ -18,7 +18,7 @@ This project demonstrates a robust Question and Answer system powered by OpenAI 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/<your-username>/business-qa-system.git
+    git clone https://github.com/Preethamvarma/RAG-Model-for-QA-bot
     cd business-qa-system
     ```
 
